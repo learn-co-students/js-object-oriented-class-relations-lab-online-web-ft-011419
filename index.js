@@ -52,7 +52,7 @@ class Passenger {
 
 
 
-}
+}//submitted lab
 class Trip {
   constructor(driver,passenger) {
     this.driverId = driver.id;
